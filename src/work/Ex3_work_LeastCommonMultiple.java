@@ -2,7 +2,7 @@ package work;
 
 import java.util.Scanner;
 
-public class Ex3_work {
+public class Ex3_work_LeastCommonMultiple {
 	
 	public static void main(String[] args) {
 		

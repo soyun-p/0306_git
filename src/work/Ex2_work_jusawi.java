@@ -1,6 +1,6 @@
 package work;
 
-public class Ex2_work {
+public class Ex2_work_jusawi {
 	
 	public static void main(String[] args) {
 		

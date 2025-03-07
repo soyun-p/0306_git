@@ -2,7 +2,7 @@ package work;
 
 import java.util.Scanner;
 
-public class Ex1_work {
+public class Ex1_work_total_limit20 {
 	
 	public static void main(String[] args) {
 		

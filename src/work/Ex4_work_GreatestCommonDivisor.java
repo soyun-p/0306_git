@@ -2,7 +2,7 @@ package work;
 
 import java.util.Scanner;
 
-public class Ex4_work {
+public class Ex4_work_GreatestCommonDivisor {
 	
 	public static void main(String[] args) {
 		
