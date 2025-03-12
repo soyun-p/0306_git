@@ -26,7 +26,7 @@ public class Ex3_work_LeastCommonMultiple {
 		for(int i = 1; i >= n1 * n2; i++) {  
 		// n1*n2이 범위인 것은 n1*n2번 내에서 최소공배수를 구할 수 있기 때문.
 			
-			if( i % n1 == 0 && i % n2 == 0 ) {  // n1*n2를 
+			if( i % n1 == 0 && i % n2 == 0 ) {  // 1부터 n1*n2까지의 숫자를 전부 하나씩 각각 n1과 n2로 나누었을 때 나머지가 없는 것.
 				System.out.println("최소공배수 : " + i);
 				break;
 				
